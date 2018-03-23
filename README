@@ -1,3 +1,17 @@
 # Breathecode CMS
 
 BreatheCode content is carefully crafted using a slighly extended markdown. This project is a static site CMS intend to publish the lessons and tutorials synced from github.
+
+Learn more about markdown here: [http://commonmark.org/help/](http://commonmark.org/help/)
+
+## Requirements
+
+The CMS is build using gatsby.js and it uses several plugins to acomplish the markdown parsingz
+
+## Instal
+
+This proyect is for BreatheCode's private usage only (at least for now), the only way to install it is by cloning this repository:
+
+'''sh
+$ git clone 
+
